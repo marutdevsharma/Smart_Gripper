@@ -20,3 +20,10 @@ This repository presents a Deep Learning-based smart gripper integrating tactile
    ```bash
    git clone https://github.com/your-username/dl-smart-gripper.git
    cd dl-smart-gripper
+## Citations
+@article{sharma2025smartgripper,
+  title={Adaptive Grasping and Control Strategy in a Deep Learning Based Smart Gripper},
+  author={Sharma, Marut Dev},
+  journal={Under Review},
+  year={2025}
+}
